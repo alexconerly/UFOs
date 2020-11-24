@@ -7,12 +7,14 @@ The purpose of this project was to assist a client named Dana in utilizing HTML,
 ---------------------------------------------
 ## Resources:
 
-Data Sources: data.js
+Data Sources: 
+
+    data.js
 
 Software: 
 
-Chrome DevTools 86.0.4240.198, Visual Studio Code 1.49.2,
-Bootstrap 3.3.7, HTML5, ES6, D3
+    Chrome DevTools 86.0.4240.198, Visual Studio Code 1.49.2,
+    Bootstrap 3.3.7, HTML5, ES6, D3
 
 ---------------------------------------------
 
