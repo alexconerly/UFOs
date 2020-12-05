@@ -33,6 +33,9 @@ In order to filter the data table, the user may choose to input selection criter
 
 ![](Resources/Oregon_us.png)
 
+Click here to visit the interactive site:
+
+https://alexconerly.github.io/UFOs/
 
 ## Summary
 
